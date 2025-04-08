@@ -65,3 +65,8 @@ tabular/
 │   │   └── db.ts          # IndexedDB service
 │   └── types/             # TypeScript type definitions
 └── ...                    # Config files
+```
+
+## License
+
+This software is proprietary and confidential. Unauthorized copying, transferring, or reproduction of the contents of this software, via any medium, is strictly prohibited. All rights reserved.

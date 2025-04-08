@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Chrome extension for advanced tab management",
   "type": "module",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -11,7 +12,7 @@
   },
   "keywords": ["chrome extension", "tab management"],
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
     "@types/chrome": "^0.0.313",
     "idb": "^8.0.2",
