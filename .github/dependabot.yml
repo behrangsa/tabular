@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    # Optionally ignore packages:
+    # ignore:
+    #   - dependency-name: react
+    #     versions: ["<19.0.0"]

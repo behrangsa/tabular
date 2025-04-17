@@ -1,0 +1,10 @@
+ # This file specifies code owners for automatic review requests.
+ # See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/creating-a-codeowners-file
+
+ # Default owner for all files
+ * @behrangsa
+
+ # Specific directories (optional)
+ /src/tab-page/ @behrangsa
+ /src/services/ @behrangsa
+ /src/background/ @behrangsa
