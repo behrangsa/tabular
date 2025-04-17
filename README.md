@@ -69,4 +69,4 @@ tabular/
 
 ## License
 
-This software is proprietary and confidential. Unauthorized copying, transferring, or reproduction of the contents of this software, via any medium, is strictly prohibited. All rights reserved.
+This project is licensed under the GNU General Public License v3.0 or later (GPL-3.0+). See the [LICENSE](LICENSE) file for details.
