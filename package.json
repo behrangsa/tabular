@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Chrome extension for advanced tab management",
   "type": "module",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -15,7 +15,7 @@
     "tab management"
   ],
   "author": "Behrang Saeedzadeh",
-  "license": "UNLICENSED",
+  "license": "GPL-3.0-only",
   "dependencies": {
     "idb": "^8.0.2",
     "react": "^19.1.0",
